@@ -1,6 +1,10 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
@@ -74,7 +78,6 @@
 - jsp
 - bootstrap
 
-
 ## 三、环境介绍
 
 基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上,Maven
@@ -84,8 +87,6 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
-
-
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d871edd8ecfc4a36b0cc8368e7e1f41f.png#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/839d7076d9944d0c87eaeae3f8d68932.png#pic_center)
@@ -121,8 +122,8 @@ http://localhost:9999/
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
 2. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
+   
    若为maven项目，导入成功后请执行maven clean;maven install命令，然后运行；
 3. 修改application.yml 里面的数据库配置配置
 4. 启动项目后端项目 
 5. 访问  http://localhost:9999/
- 
